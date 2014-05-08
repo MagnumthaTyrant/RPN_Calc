@@ -1,0 +1,77 @@
+body{
+    background: black;
+    color: white;
+}
+header{
+    font-family: monospace;
+    font-size: 6em;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+}
+
+#hr1 {
+    width: 90%;
+    position: fixed;
+    top: 10%;
+    left: 5%;
+
+}
+#menu_icon {
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    font-size: 40pt;
+    border-bottom: white solid 3px;
+    border-right: white solid 3px;
+    padding-right:  5px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+
+
+#main {
+    margin: auto;
+    position: absolute;
+    WIDTH: 100%;
+    top: 20%;
+    left: 5%;
+}
+
+.reset_button {
+    border: solid 5px white;
+    font-family: monospace;
+    font-size: 4em;
+    background: black;
+    color: white;
+}
+
+.input_field {
+    font-size: 4em;
+    border: solid white 5px;
+    color: white;
+    background: black;
+    width: 80%;
+    font-weight: bold;
+    border-radius: 2em;
+    text-align: right;
+    padding-right: 10px;
+    font-family: monospace
+}
+
+.arrow_button {
+        border: solid 5px white;
+    font-family: monospace;
+    font-size: 4em;
+    background: black;
+    color: white;
+}
+
+textarea {
+    width: 89%;
+    resize: none;
+    border: 5px solid white;
+    background: black;
+
+}
