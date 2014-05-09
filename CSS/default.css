@@ -10,6 +10,22 @@ header{
     text-align: center;
 }
 
+
+textarea {
+    width: 89%;
+    resize: none;
+    border: 5px solid white;
+    background: black;
+
+}
+
+footer {
+    border-top: 2px solid white;
+}
+
+a {
+    color: white;
+}
 #hr1 {
     width: 90%;
     position: fixed;
@@ -66,12 +82,4 @@ header{
     font-size: 4em;
     background: black;
     color: white;
-}
-
-textarea {
-    width: 89%;
-    resize: none;
-    border: 5px solid white;
-    background: black;
-
 }
